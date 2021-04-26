@@ -2,5 +2,6 @@
 "name": "RADAR Stake Pool",
 "description": "A low-fee, reliable return, bare-metal stake pool dedicated to true decentralization",
 "ticker": "RADAR",
-"homepage": "https://radarstakepool.org"
+"homepage": "https://radarstakepool.org",
+"extended": "https://github.com/HungryWookie/RDR/edit/main/extended.json"  
 }
